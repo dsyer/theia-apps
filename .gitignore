@@ -7,3 +7,7 @@
 /**/src-gen
 /**/yarn.lock
 /**/webpack.config.js
+/**/project
+/**/plugins
+/**/package.json
+/**/yarn-error.log

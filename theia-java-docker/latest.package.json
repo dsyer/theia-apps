@@ -11,9 +11,13 @@
         }
     },
     "dependencies": {
+        "@theia/plugin-ext-vscode": "latest",
+        "@theia/plugin-metrics": "latest",
         "@theia/file-search": "latest",
         "@theia/git": "latest",
+        "@theia/metrics": "latest",
         "@theia/java": "latest",
+        "@theia/java-debug": "latest",
         "@theia/json": "latest",
         "@theia/markers": "latest",
         "@theia/navigator": "latest",
